@@ -4,8 +4,6 @@ Interactive data visualization for Retraction Watch data and a friendly, secure,
 # 🌐 Global Retraction Watcher & Crossmark Depositor
 (English description)
 
-# 🌐 Retraction Explorer & Crossmark Depositor
-
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![PHP 8.3](https://img.shields.io/badge/PHP-8.3-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg)
